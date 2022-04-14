@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.6017a97d.css",
+    "main.js": "/Portfolio-Website/static/js/main.8d0070b0.js",
+    "static/media/CubeRenderArt-Blender-Cycles.png": "/Portfolio-Website/static/media/CubeRenderArt-Blender-Cycles.94a396c6b8b63a516e0f.png",
+    "static/media/Lightning Spinning - Blender - Eevee.png": "/Portfolio-Website/static/media/Lightning Spinning - Blender - Eevee.88344ef72bb1ba8d5059.png",
+    "static/media/Last Space Man Hope - Blender - Eevee.png": "/Portfolio-Website/static/media/Last Space Man Hope - Blender - Eevee.8c7a9ad61f7abc048c6d.png",
+    "static/media/Audio Waves Sync - Blender - Eevee.png": "/Portfolio-Website/static/media/Audio Waves Sync - Blender - Eevee.30d2023d6afc896da696.png",
+    "static/media/Dancing People - Blender - Eevee.png": "/Portfolio-Website/static/media/Dancing People - Blender - Eevee.074885985527c79c2e2c.png",
+    "static/media/Shooting Game - Python - Pygame.png": "/Portfolio-Website/static/media/Shooting Game - Python - Pygame.612fd6b2d68c7b29131d.png",
+    "static/media/my-profile.PNG": "/Portfolio-Website/static/media/my-profile.dcd7c473c97dcbb95bf8.PNG",
+    "static/media/VScode3.png": "/Portfolio-Website/static/media/VScode3.1e91066705a36d955e96.png",
+    "index.html": "/Portfolio-Website/index.html",
+    "main.6017a97d.css.map": "/Portfolio-Website/static/css/main.6017a97d.css.map",
+    "main.8d0070b0.js.map": "/Portfolio-Website/static/js/main.8d0070b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6017a97d.css",
+    "static/js/main.8d0070b0.js"
+  ]
+}
