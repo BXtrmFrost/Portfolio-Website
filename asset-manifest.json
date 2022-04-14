@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Website/static/css/main.6017a97d.css",
-    "main.js": "/Portfolio-Website/static/js/main.8d0070b0.js",
+    "main.js": "/Portfolio-Website/static/js/main.0260bc0b.js",
     "static/media/CubeRenderArt-Blender-Cycles.png": "/Portfolio-Website/static/media/CubeRenderArt-Blender-Cycles.94a396c6b8b63a516e0f.png",
     "static/media/Lightning Spinning - Blender - Eevee.png": "/Portfolio-Website/static/media/Lightning Spinning - Blender - Eevee.88344ef72bb1ba8d5059.png",
     "static/media/Last Space Man Hope - Blender - Eevee.png": "/Portfolio-Website/static/media/Last Space Man Hope - Blender - Eevee.8c7a9ad61f7abc048c6d.png",
@@ -12,10 +12,10 @@
     "static/media/VScode3.png": "/Portfolio-Website/static/media/VScode3.1e91066705a36d955e96.png",
     "index.html": "/Portfolio-Website/index.html",
     "main.6017a97d.css.map": "/Portfolio-Website/static/css/main.6017a97d.css.map",
-    "main.8d0070b0.js.map": "/Portfolio-Website/static/js/main.8d0070b0.js.map"
+    "main.0260bc0b.js.map": "/Portfolio-Website/static/js/main.0260bc0b.js.map"
   },
   "entrypoints": [
     "static/css/main.6017a97d.css",
-    "static/js/main.8d0070b0.js"
+    "static/js/main.0260bc0b.js"
   ]
 }
